@@ -1,5 +1,6 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
-
+## NAME: AJAY KUMAR T
+## REG NO: 212223047001
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
@@ -89,6 +90,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   
 
 ## STM 32 CUBE PROGRAM :
+```
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -306,17 +308,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 
-/************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+```
 
 
-
-
-## Output screen shots of proteus  :<img width="697" height="727" alt="image" src="https://github.com/user-attachments/assets/cd5ca700-179e-4f55-abe4-e21095db86f4" />
-
+## Output screen shots of proteus  :
  
- 
+ <img width="697" height="727" alt="500346259-72c5306b-277d-447e-8a5f-a8b6e598f85d" src="https://github.com/user-attachments/assets/8178b955-d2df-440a-9aa4-01d2e2620846" />
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ <img width="907" height="733" alt="497628963-ac52ed08-0281-42a5-82aa-a70c6dabafb6" src="https://github.com/user-attachments/assets/82283d8a-9f57-4180-8275-0a7fa4e42e68" />
+
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
