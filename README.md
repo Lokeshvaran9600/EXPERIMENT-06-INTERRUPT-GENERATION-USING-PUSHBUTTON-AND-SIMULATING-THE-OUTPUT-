@@ -1,6 +1,6 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
-## NAME: AJAY KUMAR T
-## REG NO: 212223047001
+## NAME: LOKESHVARAN S
+## REG NO: 212223040105
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
